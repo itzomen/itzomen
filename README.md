@@ -9,50 +9,12 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 517 Contributions in the Year 2020
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories
- > 
-> 🔑 0 Private Repository 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    76 commits     █████░░░░░░░░░░░░░░░░░░░░   20.49% 
-🌆 Daytime    109 commits    ███████░░░░░░░░░░░░░░░░░░   29.38% 
-🌃 Evening    146 commits    █████████░░░░░░░░░░░░░░░░   39.35% 
-🌙 Night      40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.78%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
-Tuesday      73 commits     █████░░░░░░░░░░░░░░░░░░░░   19.68% 
-Wednesday    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
-Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
-Friday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
-Saturday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.16% 
-Sunday       64 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.25%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
@@ -62,22 +24,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/itzomen/itzomen/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
