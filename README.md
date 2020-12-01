@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <a target="_blank" href="https://itzomen.github.io"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
+😄
 -->
 
 
-
-## Bio😄
-:wave: Pythonista😍 and full stack Web Engineer with back end focus. Aspiring Django expert and Vue.js lover🤗.
+ Pythonista😍 and full stack Web Engineer with back end focus. Aspiring Django expert and Vue.js lover🤗.
 - 🔭 I’m currently working on my portfolio projects
 - 🌱 I’m currently learning Django, React and Vue
 
