@@ -9,37 +9,22 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-
+## - 💬 Ask me about these stacks
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://shunjid.github.io"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
+<a target="_blank" href="https://itzomen.github.io"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
 
-## Bio
+## Bio😄
 :wave: Pythonista😍 and full stack Web Engineer with back end focus. Aspiring Django expert and Vue.js lover🤗.
 - 🔭 I’m currently working on my portfolio projects
 - 🌱 I’m currently learning Django, React and Vue
 
-## - 💬 Ask me about these stacks
 
-Languages: Python, JavaScript, C
-<br>
-Backend: Django
-<br>
-Frontend: HTML5, CSS3, Bootstrap
-<br>
-API: Django REST Framework
-<br>
-Databases: PostgreSQL
-<br>
-Experimenting: Django, Vue.js, React.js
-<br>
-Tools: Docker, Git, Github
-<br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=itzomen&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=itzomen&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=itzomen&theme=vue&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=itzomen&theme=vue&layout=compact)
 
 
 - 📫 How to reach me: ...
