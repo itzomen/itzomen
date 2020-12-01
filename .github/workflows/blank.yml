@@ -15,12 +15,14 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 name: itzomen Readme
-
 on:
-  workflow_dispatch:
-  schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+  watch
+    types: [started]
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     # Runs at 12am UTC
+#     - cron: "0 0 * * *"
 
 jobs:
   update-readme:
