@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 ## - 💬 Ask me about these stacks
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a target="_blank" href="https://itzomen.github.io"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
 -->
 
-<a target="_blank" href="https://itzomen.github.io"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
+
 
 ## Bio😄
 :wave: Pythonista😍 and full stack Web Engineer with back end focus. Aspiring Django expert and Vue.js lover🤗.
