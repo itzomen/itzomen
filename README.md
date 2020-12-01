@@ -5,10 +5,8 @@
 - 🔭 I’m currently working on my portfolio projects
 - 🌱 I’m currently learning Django, React and Vue
 
+#### Activity
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 
