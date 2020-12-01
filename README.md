@@ -19,6 +19,5 @@ No Activity tracked this Week
 #### 📫 How to reach me: ...
 
 [![Mail Badge](https://img.shields.io/badge/-itzomen-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:peng.akebuon2468@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@itz_an_omen-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itz_an_omen)](https://twitter.com/itz_an_omen/) [![Linkedin Badge](https://img.shields.io/badge/-Peng-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peng-boris-akebuon-0b8ba0195/)
-<br>
- [![Mail Badge](https://img.shields.io/badge/-Omen_Academy-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://https://www.youtube.com/channel/UCknaAfNfqKQDQFnqP2zMA6A?view_as=subscriber)  [![Mail Badge](https://img.shields.io/badge/-@itz_an_omen-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/itz_an_omen) 
+[![Twitter Badge](https://img.shields.io/badge/-@itz_an_omen-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itz_an_omen)](https://twitter.com/itz_an_omen/) [![Linkedin Badge](https://img.shields.io/badge/-Peng_Boris_Akebuon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peng-boris-akebuon-0b8ba0195/)
+ [![Mail Badge](https://img.shields.io/badge/-Academy_Omen-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://https://www.youtube.com/channel/UCknaAfNfqKQDQFnqP2zMA6A?view_as=subscriber)  [![Mail Badge](https://img.shields.io/badge/-@itz_an_omen-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/itz_an_omen) 
