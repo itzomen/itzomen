@@ -1,5 +1,4 @@
-### Hi there 👋
-# I'm Peng Boris Akebuon
+### 👋Hi there, I'm Peng Boris Akebuon
 <!--
 **itzomen/itzomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=itzomen&theme=vue&layout=compact)
 
 
-- 📫 How to reach me: ...
+📫 How to reach me: ...
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:peng.akebuon2468@gmail.com)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dsajib1066&suffix=%20Followers)](https://twitter.com/itz_an_omen/)
