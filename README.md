@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/peng-boris-akebuon-0b8ba0195/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sajib1066/)
 
-:wave: Hi there, Peng Boris Akebuon.. Pythonista😍 and full stack Web Engineer with back end focus. Aspiring Django expert and Vue.js lover🤗.
+:wave: I'm Peng Boris Akebuon.. Pythonista😍 and full stack Web Engineer with back end focus. Aspiring Django expert and Vue.js lover🤗.
 - 🔭 I’m currently working on my portfolio projects
 - 🌱 I’m currently learning Django, React and Vue
 
