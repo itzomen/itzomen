@@ -6,17 +6,6 @@
 - 🌱 I’m currently learning Django, React and Vue
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### Main Stacks
-
-[![Python Badge](https://img.shields.io/badge/-Python-646464?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE)](#)
-[![Django Badge](https://img.shields.io/badge/-Django-3C873A?style=for-the-badge&labelColor=black&logo=django&logoColor=3C873A)](#)
-[![Vue.js Badge](https://img.shields.io/badge/-vue.js-35495e?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=42b883)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-
-<!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
