@@ -6,7 +6,7 @@
 
 #### Activity
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
 📊 **This Week I Spent My Time On** 
 
