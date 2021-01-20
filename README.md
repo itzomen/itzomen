@@ -6,7 +6,7 @@
 
 #### Activity
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -14,13 +14,13 @@
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Markdown                 2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-NCMP                     2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
