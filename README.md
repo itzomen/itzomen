@@ -3,6 +3,7 @@
  A Pythonista😍, Data scientist and Full-stack Web Engineer with backend focus. Aspiring Software engineer creating AI powered web-based Software.
 - 🔭 I’m currently working on my portfolio projects
 - 🌱 I’m currently learning Django, React and Vue
+- 😄 I’m currently learning Python, C/C++ and assembly language
 
 #### Activity
 <!--START_SECTION:waka-->
