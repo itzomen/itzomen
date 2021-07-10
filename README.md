@@ -7,7 +7,7 @@
 
 #### Activity
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,7 +27,7 @@ Linux                    11 hrs 2 mins       ███████████�
 ```
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
 
 
