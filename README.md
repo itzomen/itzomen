@@ -2,6 +2,7 @@
 
  A Pythonista😍, and Full-stack Web Engineer with backend focus. Aspiring Software engineer creating AI powered web-based Software.
 - 🔭 I’m currently working on [Traleor](https://traleor.com/)
+- 📒 Getting Started with Go Programming Language
 - 🌱 I’m currently learning Django, React and GraphQL
 - 😄 I enjoy Python, C/C++ and assembly language
 
