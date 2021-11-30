@@ -1,6 +1,6 @@
  ## Hi, I'm Peng Boris Akebuon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
- A Pythonista😍, and Full-stack Web Engineer with backend focus. Aspiring Software engineer creating AI powered web-based Software.
+ Aspiring Software engineer (focused on Backend) delivering Highly Scalable and AI powered Software. Also love doing UI/UX Designs.
 - 🔭 I’m currently working on [Traleor](https://traleor.com/)
 - 📒 Getting Started with Go Programming Language
 - 🌱 I’m currently learning Django, React and GraphQL
