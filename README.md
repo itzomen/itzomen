@@ -1,10 +1,17 @@
  ## Hi, I'm Peng Boris Akebuon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
- Aspiring Software engineer (focused on Backend) delivering Highly Scalable and AI powered Backend/Software services. Also love the Blockchain.
+Python, Go, GraphQL, and Typescript Developer focused on Backend. I love solving puzzles and building scalable products that helps people in their day-to-day lives.
+
+I have an enormous experience working with Django web framework and React+Typescript and currently learning the Go programming language.
+
+I also have interest in Blockchain and AI, as these are major technologies that will forge this century.
+
+From time to time, I create YouTube videos around web development and always love getting feedbacks.
+
 - 🔭 I’m currently working on [Traleor](https://traleor.com/)
 - 📒 Getting Started with Blockchain Development
-- 🌱 I’m currently learning Django, React and GraphQL
-- 😄 I enjoy Python, C/C++ and assembly language
+- 🌱 I’m currently learning Django, React/NextJs, GraphQL and Typescript.
+- 😄 I enjoy Python, C/C++ and typed languages.
 
 #### Activity
 <!--START_SECTION:waka-->
