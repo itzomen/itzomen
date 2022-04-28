@@ -15,7 +15,7 @@ From time to time, I create YouTube videos around web development and always lov
 
 #### Activity
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,19 +23,19 @@ From time to time, I create YouTube videos around web development and always lov
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-TypeScript               23 hrs 5 mins       ███████████░░░░░░░░░░░░░░   47.46% 
-Solidity                 16 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   33.49% 
-JavaScript               3 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.15% 
-CSS                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.6% 
-Markdown                 1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
+Solidity                 19 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   36.4% 
+TypeScript               17 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   33.18% 
+JavaScript               4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
+Python                   3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.52% 
+CSS                      2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.98%
 
 💻 Operating System: 
-Linux                    48 hrs 39 mins      █████████████████████████   100.0%
+Linux                    52 hrs 59 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 27/04/2022 01:01:56 UTC
+ Last Updated on 28/04/2022 01:11:58 UTC
 <!--END_SECTION:waka-->
 
 
