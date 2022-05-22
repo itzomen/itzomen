@@ -2,7 +2,7 @@
 
 Python, Go, GraphQL, and Typescript Developer focused on Backend. I love solving puzzles and building scalable products that helps people in their day-to-day lives.
 
-I have an enormous experience working with Django web framework and React+Typescript and currently learning the Go programming language.
+I have an enormous experience working with Django web framework and React+Typescript and currently learning the Solidity programming language.
 
 I also have interest in Blockchain and AI, as these are major technologies that will forge this century.
 
