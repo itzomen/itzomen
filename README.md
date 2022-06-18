@@ -17,7 +17,7 @@ From time to time, I create YouTube videos around web development and always lov
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,7 +37,7 @@ Linux                    30 hrs 58 mins      ███████████�
 ```
 
 
- Last Updated on 17/06/2022 00:53:21 UTC
+ Last Updated on 18/06/2022 00:57:25 UTC
 <!--END_SECTION:waka-->
 
 
