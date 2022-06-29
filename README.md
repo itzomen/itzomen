@@ -1,12 +1,12 @@
  ## Hi, I'm Peng Boris Akebuon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="21px" height="21px" alt="hi">
 
-Python, Go, GraphQL, and Typescript Developer focused on Backend. I love solving puzzles and building scalable products that helps people in their day-to-day lives.
+Python, Go, GraphQL, and Typescript Developer focused on Backend. I love solving puzzles and building scalable products that help people in their day-to-day lives.
 
-I have an enormous experience working with Django web framework and React+Typescript and currently learning the Solidity programming language.
+I have enormous experience working with Django web framework and React+Typescript and currently learning the Solidity programming language.
 
-I also have interest in Blockchain and AI, as these are major technologies that will forge this century.
+I also have an interest in Blockchain and AI, as these are major technologies that will forge this century.
 
-From time to time, I create YouTube videos around web development and always love getting feedbacks.
+From time to time, I create YouTube videos around web development and always love getting feedback.
 
 - 🔭 I’m currently working on [Traleor](https://traleor.com/)
 - 📒 Getting Started with Blockchain Development
