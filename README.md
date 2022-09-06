@@ -15,12 +15,29 @@ From time to time, I create YouTube videos around web development and always lov
 
 #### Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C126%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Douala
+
+💬 Programming Languages: 
+JavaScript               17 hrs 19 mins      ███████████░░░░░░░░░░░░░░   46.64% 
+TypeScript               12 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   32.85% 
+JSON                     3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
+Other                    1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.9% 
+Markdown                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+
+💻 Operating System: 
+Linux                    37 hrs 7 mins       █████████████████████████   100.0%
+
+```
 
 
- Last Updated on 05/09/2022 01:17:56 UTC
+ Last Updated on 06/09/2022 01:10:40 UTC
 <!--END_SECTION:waka-->
 
 
