@@ -19,8 +19,25 @@ From time to time, I create YouTube videos around web development and always lov
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/09/2022 01:12:54 UTC
+```text
+⌚︎ Time Zone: Africa/Douala
+
+💬 Programming Languages: 
+TypeScript               15 hrs 55 mins      ███████████████░░░░░░░░░░   60.62% 
+CSS                      6 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48% 
+Python                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.55% 
+INI                      38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
+JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
+
+💻 Operating System: 
+Linux                    26 hrs 16 mins      █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 16/09/2022 01:12:40 UTC
 <!--END_SECTION:waka-->
 
 
