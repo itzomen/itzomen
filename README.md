@@ -13,7 +13,7 @@ In addition to his technical expertise, Peng is also a dedicated contributor to 
 
 #### Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C971%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C981%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -23,18 +23,18 @@ In addition to his technical expertise, Peng is also a dedicated contributor to 
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Markdown                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Python                   2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Text                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Docker                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Bash                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+TypeScript               5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Python                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Markdown                 2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Bash                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Docker                   2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 💻 Operating System: 
-Linux                    14 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/04/2023 00:46:35 UTC
+ Last Updated on 28/04/2023 00:48:14 UTC
 <!--END_SECTION:waka-->
 
 
