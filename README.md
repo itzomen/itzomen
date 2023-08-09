@@ -1,6 +1,6 @@
  ## Hi, I'm Peng Boris Akebuon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="21px" height="21px" alt="hi">
 
-Peng is an experienced software engineer with a passion for artificial intelligence, blockchain, DevOps, and backend engineering. He possesses a keen ability to problem-solve and has a proven track record of building scalable products that enhance the daily lives of users.
+Peng is an experienced software engineer with a passion for artificial intelligence, blockchain, and backend engineering. He possesses a keen ability to problem-solve and has a proven track record of building scalable products that enhance the daily lives of users.
 
 Peng is proficient in a range of programming languages and technologies, including Python, Go, GraphQL, TypeScript, Solidity, and NextJs. He is continually seeking to expand his skill set by learning new technologies and staying current with industry developments.
 
