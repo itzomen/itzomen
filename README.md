@@ -1,15 +1,13 @@
  ## Hi, I'm Peng Boris Akebuon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="21px" height="21px" alt="hi">
 
-Peng is an experienced software engineer with a passion for artificial intelligence, blockchain, and backend engineering. He possesses a keen ability to problem-solve and has a proven track record of building scalable products that enhance the daily lives of users.
+Peng Boris, an adept software engineer with over 4 years of experience, specializes in AI and software development. Proficient in Python, Go, GraphQL, TypeScript, and NextJs, he has a proven track record of delivering scalable solutions. Notably, Peng pioneered a text-to-website transformer model for his Bachelor's thesis, highlighting his forward-thinking and inventive approach.
 
-Peng is proficient in a range of programming languages and technologies, including Python, Go, GraphQL, TypeScript, Solidity, and NextJs. He is continually seeking to expand his skill set by learning new technologies and staying current with industry developments.
-
-In addition to his technical expertise, Peng is also a dedicated contributor to the software engineering community. He regularly creates written tutorials and YouTube videos, sharing his knowledge and helping other developers to improve their skills.
+Having contributed to the success of companies across Africa, America, and Europe, Peng brings a diverse and global perspective to his work. Dedicated to knowledge sharing, Peng manages a YouTube channel with 1000+ subscribers, highlighting his commitment to community empowerment. With a proven track record, he is well-equipped to contribute expertise and drive positive change in software engineering.
 
 - 🔭 I’m currently working on [Traleor](https://traleor.com/)
 - 📒 Learning more on Linux Hardening and DevOps
 - 🌱 Always learning Python, Django, React/NextJs, GraphQL and Typescript.
-- 😄 Palying with Python, C/C++ and any typed languages.
+- 😄 Playing with Python, C/C++ and any typed languages.
 
 #### Activity
 <!--START_SECTION:waka-->
