@@ -5,7 +5,7 @@ Peng Boris, an adept software engineer with over 4 years of experience, speciali
 Having contributed to the success of companies across Africa, America, and Europe, Peng brings a diverse and global perspective to his work. Dedicated to knowledge sharing, Peng manages a YouTube channel with 1000+ subscribers, highlighting his commitment to community empowerment. With a proven track record, he is well-equipped to contribute expertise and drive positive change in software engineering.
 
 - 🔭 I’m currently working on [Traleor](https://traleor.com/)
-- 📒 Learning more on Linux Hardening and DevOps
+- 📒 Learning [Zig](https://ziglang.org/), Linux Hardening and DevOps
 - 🌱 Always learning Python, Django, React/NextJs, GraphQL and Typescript.
 - 😄 Playing with Python, C/C++ and any typed languages.
 
