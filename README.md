@@ -21,16 +21,14 @@ Having contributed to the success of companies across Africa, America, and Europ
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-TypeScript               5 hrs 48 mins       █████████████████████████   99.70 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/03/2024 00:41:11 UTC
+ Last Updated on 28/03/2024 00:41:33 UTC
 <!--END_SECTION:waka-->
 
 
