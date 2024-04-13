@@ -11,10 +11,24 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 #### Activity
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C436%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 12/04/2024 00:42:08 UTC
+```text
+🕑︎ Time Zone: Africa/Douala
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 13/04/2024 00:35:31 UTC
 <!--END_SECTION:waka-->
 
 
