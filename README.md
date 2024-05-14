@@ -11,7 +11,7 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 #### Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C436%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C436%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,14 +21,18 @@ Having contributed to the success of companies across Africa, America, and Europ
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     24 mins             ██████████████░░░░░░░░░░░   57.23 % 
+Bash                     16 mins             ██████████░░░░░░░░░░░░░░░   38.72 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    25 mins             ███████████████░░░░░░░░░░   59.22 % 
+Windows                  17 mins             ██████████░░░░░░░░░░░░░░░   40.78 % 
 ```
 
 
- Last Updated on 13/05/2024 00:45:02 UTC
+ Last Updated on 14/05/2024 00:43:44 UTC
 <!--END_SECTION:waka-->
 
 
