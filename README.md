@@ -1,6 +1,6 @@
  ## Hi, I'm Peng Boris Akebuon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="21px" height="21px" alt="hi">
 
-Peng Boris, an adept software engineer with over 4 years of experience, specializes in AI and software development. Proficient in Python, Go, GraphQL, TypeScript, and NextJs, he has a proven track record of delivering scalable solutions. Notably, Peng created a text-to-website transformer model for his Bachelor's thesis, highlighting his forward-thinking and inventive approach.
+Peng Boris, a passionate software engineer with over 5 years of experience, specializes in AI and software development. Proficient in Python, Go, GraphQL, TypeScript, and NextJs, he has a proven track record of delivering scalable solutions. Notably, Peng created a text-to-website transformer model for his Bachelor's thesis, highlighting his forward-thinking and inventive approach.
 
 Having contributed to the success of companies across Africa, America, and Europe, Peng brings a diverse and global perspective to his work. Dedicated to knowledge sharing, Peng manages a YouTube channel with 1000+ subscribers, highlighting his commitment to community empowerment. With a proven track record, he is well-equipped to contribute expertise and drive positive change in software engineering.
 
