@@ -11,10 +11,29 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 #### Activity
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C301%20hrs%2021%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Kigali
+
+💬 Programming Languages: 
+TypeScript               25 hrs 20 mins      ███████████████░░░░░░░░░░   59.04 % 
+Python                   6 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Text                     3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+TeX                      2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+JSON                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+
+💻 Operating System: 
+Linux                    25 hrs 41 mins      ███████████████░░░░░░░░░░   59.89 % 
+Mac                      17 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   40.11 % 
+```
 
 
- Last Updated on 16/11/2025 01:09:49 UTC
+ Last Updated on 17/11/2025 01:06:08 UTC
 <!--END_SECTION:waka-->
 
 
