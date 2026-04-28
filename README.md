@@ -15,25 +15,8 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Africa/Kigali
-
-💬 Programming Languages: 
-TypeScript               23 hrs 26 mins      ██████████████░░░░░░░░░░░   55.81 % 
-Markdown                 9 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Go                       2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Other                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-SQL                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-
-💻 Operating System: 
-Linux                    37 hrs 54 mins      ███████████████████████░░   90.25 % 
-Mac                      4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-```
-
-
- Last Updated on 27/04/2026 02:06:58 UTC
+ Last Updated on 28/04/2026 02:13:09 UTC
 <!--END_SECTION:waka-->
 
 
