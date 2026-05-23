@@ -11,6 +11,8 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 #### Activity
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C264%20hrs%208%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -31,7 +33,7 @@ Mac                      15 hrs 42 mins      ███████████�
 ```
 
 
- Last Updated on 22/05/2026 02:42:23 UTC
+ Last Updated on 23/05/2026 02:27:38 UTC
 <!--END_SECTION:waka-->
 
 
