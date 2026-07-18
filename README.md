@@ -11,7 +11,7 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 #### Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C557%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C564%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -21,19 +21,19 @@ Having contributed to the success of companies across Africa, America, and Europ
 🕑︎ Time Zone: Africa/Kigali
 
 💬 Programming Languages: 
-TypeScript               21 hrs              ███████████████████░░░░░░   75.53 % 
-Markdown                 2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Python                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               19 hrs 19 mins      ███████████████████░░░░░░   76.43 % 
+Markdown                 2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Python                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Linux                    14 hrs 19 mins      █████████████░░░░░░░░░░░░   51.52 % 
-Mac                      13 hrs 29 mins      ████████████░░░░░░░░░░░░░   48.48 % 
+Linux                    17 hrs 53 mins      ██████████████████░░░░░░░   70.78 % 
+Mac                      7 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.22 % 
 ```
 
 
- Last Updated on 17/07/2026 02:01:17 UTC
+ Last Updated on 18/07/2026 01:50:13 UTC
 <!--END_SECTION:waka-->
 
 
