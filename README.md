@@ -21,19 +21,19 @@ Having contributed to the success of companies across Africa, America, and Europ
 🕑︎ Time Zone: Africa/Kigali
 
 💬 Programming Languages: 
-TypeScript               22 hrs 28 mins      ███████████████████░░░░░░   76.15 % 
-Markdown                 3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-CSS                      1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Other                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-HTML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+TypeScript               19 hrs 48 mins      ████████████████████░░░░░   80.87 % 
+CSS                      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Markdown                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+HTML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-Linux                    17 hrs 32 mins      ███████████████░░░░░░░░░░   59.47 % 
-Mac                      11 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   40.53 % 
+Linux                    17 hrs 22 mins      ██████████████████░░░░░░░   70.98 % 
+Mac                      7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
 ```
 
 
- Last Updated on 26/07/2026 02:05:14 UTC
+ Last Updated on 27/07/2026 02:12:34 UTC
 <!--END_SECTION:waka-->
 
 
