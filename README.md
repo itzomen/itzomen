@@ -11,7 +11,9 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 #### Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C599%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C483%20hrs%2041%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-356%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -32,8 +34,31 @@ Linux                    17 hrs 22 mins      ███████████�
 Mac                      7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 02:12:34 UTC
+```text
+⏱ AI Coding Time: 15 hrs 47 mins (64.5%)
+
+✍️ 6,674 lines written by AI, 76,169 lines written by hand (8.06% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 38 AI Sessions, 157 AI Prompts
+
+Composer                 117 lines           ███████████████████░░░░░░   74.05 % 
+Grok                     41 lines            ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 8.06% of written lines came from AI
+📝 Concise Prompter — average 236 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 90.21% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 01:53:47 UTC
 <!--END_SECTION:waka-->
 
 
