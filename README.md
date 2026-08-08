@@ -11,10 +11,56 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 #### Activity
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C530%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-392%20hrs%2057%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 07/08/2026 02:17:28 UTC
+```text
+🕑︎ Time Zone: Africa/Kigali
+
+💬 Programming Languages: 
+TypeScript               20 hrs 53 mins      █████████████████░░░░░░░░   68.41 % 
+Markdown                 7 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Bash                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+
+💻 Operating System: 
+Mac                      26 hrs 21 mins      ██████████████████████░░░   86.35 % 
+Linux                    4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs 15 mins (82.72%)
+
+✍️ 26,625 lines written by AI, 855 lines written by hand (96.89% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 98 AI Sessions, 311 AI Prompts
+
+Grok                     3,023 lines         █████████████████░░░░░░░░   68.29 % 
+Composer                 955 lines           █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Opus                     268 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+GPT                      181 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.89% of written lines came from AI
+📄 Detailed Prompter — average 901 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 5.49% of changed lines were hand-edited
+```
+
+
+ Last Updated on 08/08/2026 01:04:05 UTC
 <!--END_SECTION:waka-->
 
 
