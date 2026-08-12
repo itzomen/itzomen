@@ -11,55 +11,14 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 #### Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C541%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C546%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-401%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-405%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Africa/Kigali
-
-💬 Programming Languages: 
-TypeScript               25 hrs 57 mins      ██████████████████░░░░░░░   70.75 % 
-Markdown                 7 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Python                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-
-💻 Operating System: 
-Mac                      32 hrs 22 mins      ██████████████████████░░░   88.25 % 
-Linux                    4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 29 hrs 36 mins (80.69%)
-
-✍️ 30,344 lines written by AI, 1,564 lines written by hand (95.1% AI-written)
-
-🔤 1,072 Input Tokens, 1,072 Output Tokens
-
-💵 $0.02 Estimated AI Cost This Week
-
-🧠 119 AI Sessions, 411 AI Prompts
-
-Grok                     4,269 lines         ██████████████████████░░░   88.15 % 
-Composer                 393 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-GPT                      181 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.1% of written lines came from AI
-📄 Detailed Prompter — average 765 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.89% of changed lines were hand-edited
-```
-
-
- Last Updated on 11/08/2026 01:09:23 UTC
+ Last Updated on 12/08/2026 01:16:55 UTC
 <!--END_SECTION:waka-->
 
 
