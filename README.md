@@ -11,14 +11,54 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 #### Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C546%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C552%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-405%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-410%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 12/08/2026 01:16:55 UTC
+```text
+🕑︎ Time Zone: Africa/Kigali
+
+💬 Programming Languages: 
+TypeScript               25 hrs 35 mins      ███████████████████░░░░░░   75.93 % 
+Markdown                 4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+HTML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Other                    40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+
+💻 Operating System: 
+Mac                      28 hrs 16 mins      █████████████████████░░░░   83.93 % 
+Linux                    5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 27 hrs 38 mins (82.03%)
+
+✍️ 20,499 lines written by AI, 1,702 lines written by hand (92.33% AI-written)
+
+🔤 166,803 Input Tokens, 166,803 Output Tokens
+
+💵 $3.00 Estimated AI Cost This Week
+
+🧠 105 AI Sessions, 428 AI Prompts
+
+Grok                     5,827 lines         █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 92.33% of written lines came from AI
+📚 Verbose Prompter — average 2,171 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 11.54% of changed lines were hand-edited
+```
+
+
+ Last Updated on 13/08/2026 01:18:40 UTC
 <!--END_SECTION:waka-->
 
 
