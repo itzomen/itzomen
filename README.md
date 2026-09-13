@@ -17,8 +17,48 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 12/09/2026 02:32:10 UTC
+```text
+🕑︎ Time Zone: Africa/Kigali
+
+💬 Programming Languages: 
+TypeScript               20 hrs 48 mins      █████████████████████░░░░   85.19 % 
+Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+
+💻 Operating System: 
+Linux                    17 hrs 19 mins      ██████████████████░░░░░░░   70.94 % 
+Mac                      7 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 21 hrs 12 mins (86.88%)
+
+✍️ 6,751 lines written by AI, 371 lines written by hand (94.79% AI-written)
+
+🔤 176,072 Input Tokens, 176,072 Output Tokens
+
+💵 $3.17 Estimated AI Cost This Week
+
+🧠 72 AI Sessions, 266 AI Prompts
+
+Grok                     4,910 lines         █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.79% of written lines came from AI
+📚 Verbose Prompter — average 2,864 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 8.58% of changed lines were hand-edited
+```
+
+
+ Last Updated on 13/09/2026 02:31:14 UTC
 <!--END_SECTION:waka-->
 
 
