@@ -23,42 +23,42 @@ Having contributed to the success of companies across Africa, America, and Europ
 🕑︎ Time Zone: Africa/Kigali
 
 💬 Programming Languages: 
-TypeScript               24 hrs 21 mins      ████████████████████░░░░░   79.02 % 
-Markdown                 2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Bash                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-CSS                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+TypeScript               24 hrs 30 mins      █████████████████████░░░░   82.63 % 
+JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+CSS                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 💻 Operating System: 
-Linux                    16 hrs 29 mins      █████████████░░░░░░░░░░░░   53.47 % 
-Mac                      14 hrs 20 mins      ████████████░░░░░░░░░░░░░   46.53 % 
+Linux                    17 hrs 14 mins      ███████████████░░░░░░░░░░   58.13 % 
+Mac                      12 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   41.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 44 mins (70.51%)
+⏱ AI Coding Time: 22 hrs 12 mins (74.87%)
 
-✍️ 2,503 lines written by AI, 2,244 lines written by hand (52.73% AI-written)
+✍️ 3,013 lines written by AI, 589 lines written by hand (83.65% AI-written)
 
-🔤 546,611 Input Tokens, 546,611 Output Tokens
+🔤 535,589 Input Tokens, 535,589 Output Tokens
 
-💵 $9.84 Estimated AI Cost This Week
+💵 $9.64 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 187 AI Prompts
+🧠 68 AI Sessions, 218 AI Prompts
 
-Grok                     2,853 lines         █████████████████████████   100.00 % 
+Grok                     3,242 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.73% of written lines came from AI
-📚 Verbose Prompter — average 12,262 characters per prompt
+🤖 AI-Driven — 83.65% of written lines came from AI
+📚 Verbose Prompter — average 10,407 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 46.95% of changed lines were hand-edited
+🚀 High AI Trust — 23.7% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 02:57:30 UTC
+ Last Updated on 29/09/2026 03:37:35 UTC
 <!--END_SECTION:waka-->
 
 
