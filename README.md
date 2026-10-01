@@ -11,9 +11,9 @@ Having contributed to the success of companies across Africa, America, and Europ
 
 #### Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C744%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C749%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-565%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-569%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -23,42 +23,42 @@ Having contributed to the success of companies across Africa, America, and Europ
 🕑︎ Time Zone: Africa/Kigali
 
 💬 Programming Languages: 
-TypeScript               23 hrs 48 mins      █████████████████████░░░░   82.54 % 
-Bash                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-CSS                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TypeScript               18 hrs 48 mins      ██████████████████░░░░░░░   72.52 % 
+JavaScript               2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Bash                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Text                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 💻 Operating System: 
-Linux                    15 hrs 1 min        █████████████░░░░░░░░░░░░   52.07 % 
-Mac                      13 hrs 49 mins      ████████████░░░░░░░░░░░░░   47.93 % 
+Linux                    14 hrs 8 mins       ██████████████░░░░░░░░░░░   54.54 % 
+Mac                      11 hrs 47 mins      ███████████░░░░░░░░░░░░░░   45.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 11 mins (80.36%)
+⏱ AI Coding Time: 20 hrs 53 mins (80.54%)
 
-✍️ 5,829 lines written by AI, 588 lines written by hand (90.84% AI-written)
+✍️ 6,193 lines written by AI, 931 lines written by hand (86.93% AI-written)
 
-🔤 358,493 Input Tokens, 358,493 Output Tokens
+🔤 288 Input Tokens, 288 Output Tokens
 
-💵 $6.45 Estimated AI Cost This Week
+💵 $0.01 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 232 AI Prompts
+🧠 50 AI Sessions, 223 AI Prompts
 
-Grok                     3,293 lines         █████████████████████████   100.00 % 
+Grok                     2,938 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.84% of written lines came from AI
-📚 Verbose Prompter — average 6,549 characters per prompt
+🤖 AI-Driven — 86.93% of written lines came from AI
+📝 Concise Prompter — average 402 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 14.17% of changed lines were hand-edited
+🚀 High AI Trust — 13.75% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 03:24:03 UTC
+ Last Updated on 01/10/2026 03:29:51 UTC
 <!--END_SECTION:waka-->
 
 
