@@ -14,8 +14,6 @@ I care about systems that hold up in the contexts they're deployed in, not just 
 **Stack:** Python · Go · TypeScript · Next.js · LLMs & applied ML  
 **Exploring:** robotics, AI safety, Zig, Linux hardening
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=itzomen&theme=vue&show_icons=true&count_private=true)
-
 [![Email](https://img.shields.io/badge/-itzomen-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:peng.akebuon2468@gmail.com)
 [![Website](https://img.shields.io/badge/-pengboris.com-111?style=flat&labelColor=111&logo=google-chrome&logoColor=white)](https://pengboris.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peng-boris-akebuon/)
